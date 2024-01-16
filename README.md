@@ -1,1 +1,1 @@
-A simple reposity of my journey studying Go.
+A simple repository of my journey studying Go.
